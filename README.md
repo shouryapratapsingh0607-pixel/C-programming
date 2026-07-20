@@ -1,4 +1,4 @@
-# C-programming
+# C-programming journey
 My first step into C programming and the computer world. 
 <br>
 Auther - shourya singh 
